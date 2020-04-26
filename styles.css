@@ -1,0 +1,23 @@
+body {
+  font-family: 'Baloo Tammudu 2', cursive;
+  background-color: #ececec;
+}
+
+hr {
+  border-style: dotted;
+  border-top-style: none;
+  width: 5%;
+  border-color: grey;
+  border-width: 5px;
+}
+
+h1 {
+  color: #30475e;
+}
+
+h2 {
+  color: #c1a57b
+}
+
+h3 {
+  color: #c1a57b
